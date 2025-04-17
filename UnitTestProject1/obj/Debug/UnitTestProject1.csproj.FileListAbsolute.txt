@@ -1,0 +1,24 @@
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\курсовая трзбд.exe
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\курсовая трзбд.pdb
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\курсовая трзбд.exe.config
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\курсовая трзбд\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\курсовая трзбд\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+H:\курсовая трзбд\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+H:\курсовая трзбд\UnitTestProject1\obj\Debug\UnitTest.40E657F8.Up2Date
+H:\курсовая трзбд\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+H:\курсовая трзбд\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

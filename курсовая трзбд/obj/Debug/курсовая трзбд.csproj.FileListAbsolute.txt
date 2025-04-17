@@ -1,0 +1,62 @@
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.exe.config
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.exe
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.pdb
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.AssemblyReference.cache
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form1.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form10.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form11.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form12.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form13.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form14.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form15.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form2.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form3.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form4.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form5.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form6.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form7.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form8.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form9.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Properties.Resources.resources
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.GenerateResource.cache
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.CoreCompileInputs.cache
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.exe
+C:\Users\risha\Desktop\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.pdb
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.AssemblyReference.cache
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.exe
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.pdb
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form1.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form2.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form3.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Properties.Resources.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.GenerateResource.cache
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.CoreCompileInputs.cache
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.exe.config
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.exe
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.pdb
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form10.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form4.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form5.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form6.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form7.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form8.resources
+C:\Users\429198-22\Downloads\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form9.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.AssemblyReference.cache
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form1.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form10.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form2.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form3.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form4.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form5.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form6.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form7.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form8.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Form9.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая_трзбд.Properties.Resources.resources
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.GenerateResource.cache
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.csproj.CoreCompileInputs.cache
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.exe
+H:\курсовая трзбд\курсовая трзбд\obj\Debug\курсовая трзбд.pdb
+H:\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.exe.config
+H:\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.exe
+H:\курсовая трзбд\курсовая трзбд\bin\Debug\курсовая трзбд.pdb
